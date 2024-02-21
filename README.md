@@ -13,12 +13,12 @@
 
 
 
-**Slump** 
+**Phoenix** 
 ---
 <details>
 <summary>About me</summary>
 
-Hi, i am Slump. I have about 5 years of experience, i try to be aware of each update to continue providing my codes for free. With more than 4 years in discord, It will be a pleasure to help you in whatever you need!
+Hi, i am Phoenix. I have about 5 years of experience, i try to be aware of each update to continue providing my codes for free. With more than 4 years in discord, It will be a pleasure to help you in whatever you need!
 * I specialize in creating bots/tools for discord.
 * part of my code can be used to harm a third party but I want to clarify that this is not its purpose or intention.
 
@@ -51,5 +51,5 @@ Hi, i am Slump. I have about 5 years of experience, i try to be aware of each up
 Discord:
 <a href="https://discord.gg/K5fPkak33s">   <img src="https://cdn.discordapp.com/attachments/946614010030202901/1088718404879392818/bnVrZXIub3JnLw.png" alt="contact mee">
 ```
-zzslump
+phoenix.707
 ```
