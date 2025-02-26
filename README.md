@@ -49,7 +49,7 @@ Hi, i am Phoenix. I have about 5 years of experience, i try to be aware of each 
 <ul>
 
 Discord:
-<a href="https://discord.gg/K5fPkak33s">   <img src="https://cdn.discordapp.com/attachments/946614010030202901/1088718404879392818/bnVrZXIub3JnLw.png" alt="contact mee">
+<a href="https://discordlookup.com/user/1165315969254707211">   <img src="https://goo.su/0DvLZw" alt="contact mee">
 ```
-phoenix.707
+phoenix.3301
 ```
