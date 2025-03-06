@@ -13,7 +13,7 @@
 
 
 
-**Phoenix** 
+**Phoenix** <p align="left"> <img src="https://komarev.com/ghpvc/?username=U-PAK&label=Profile%20views&color=0e75b6&style=flat" alt="U-PAK" /> </p>
 ---
 <details>
 <summary>About me</summary>
@@ -22,6 +22,7 @@ Hi, i am Phoenix. I have about 5 years of experience, i try to be aware of each 
 * I specialize in creating bots/tools for discord.
 * part of my code can be used to harm a third party but I want to clarify that this is not its purpose or intention.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=U-PAK" alt="U-PAK" /></a> </p>
  </table>
   </details>
 
@@ -38,10 +39,10 @@ Hi, i am Phoenix. I have about 5 years of experience, i try to be aware of each 
     
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=U-PAK&show_icons=true&locale=en&layout=compact" alt="U-PAK" /></p>
 
 <br>
+
 
 ## <img src="https://cdn.discordapp.com/emojis/1087919819749330974.png" width ="35"><b> Where can you find me?</b>
 <br>
