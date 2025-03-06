@@ -39,7 +39,8 @@ Hi, i am Phoenix. I have about 5 years of experience, i try to be aware of each 
     
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=U-PAK&show_icons=true&locale=en&layout=compact" alt="U-PAK" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-PAK)
 
 <br>
 
