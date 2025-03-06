@@ -50,7 +50,7 @@ Hi, i am Phoenix. I have about 5 years of experience, i try to be aware of each 
 <ul>
 
 Discord:
-<a href="https://discordlookup.com/user/1165315969254707211">   <img src="https://goo.su/0DvLZw" alt="contact mee">
+<a href="https://discordlookup.com/user/1165315969254707211">   <img src="https://media.discordapp.net/attachments/1101730379460775956/1347285238107340881/icons8-discord-new-48.png?ex=67cb44a8&is=67c9f328&hm=18c11b9c0d7ef869e5bd76380fb6d424a0cdedef045e5b15ea2180ee7fa13e84&=&format=webp&quality=lossless" alt="contact mee">
 ```
 phoenix.3301
 ```
