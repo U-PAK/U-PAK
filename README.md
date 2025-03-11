@@ -21,8 +21,10 @@
 Hi, i am Phoenix. I have about 5 years of experience, i try to be aware of each update to continue providing my codes for free. With more than 4 years in discord, It will be a pleasure to help you in whatever you need!
 * I specialize in creating bots/tools for discord.
 * part of my code can be used to harm a third party but I want to clarify that this is not its purpose or intention.
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=U-PAK&theme=matrix">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=U-PAK" alt="U-PAK" /></a> </p>
  </table>
   </details>
 
